@@ -1,0 +1,4 @@
+train: /kaggle/working/Chula-ParasiteEgg-11/images/training_set
+val: /kaggle/working/Chula-ParasiteEgg-11/images/validation_set
+nc : 11
+name : ['Ascaris lumbricoides', 'Capillaria philippinensis', 'Enterobius vermicularis', 'Fasciolopsis buski','Hookworm egg', 'Hymenolepis diminuta', 'Hymenolepis nana', 'Opisthorchis viverrine','Paragonimus spp', 'Taenia spp. egg', 'Trichuris trichiura'] 
